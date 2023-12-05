@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode.UnitsTests/EvaluationSampleCode.UnitsTests.csproj": {}
+  },
+  "projects": {
+    "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode.UnitsTests/EvaluationSampleCode.UnitsTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode.UnitsTests/EvaluationSampleCode.UnitsTests.csproj",
+        "projectName": "EvaluationSampleCode.UnitsTests",
+        "projectPath": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode.UnitsTests/EvaluationSampleCode.UnitsTests.csproj",
+        "packagesPath": "/Users/canse/.nuget/packages/",
+        "outputPath": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode.UnitsTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canse/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/EvaluationSampleCode.csproj": {
+                "projectPath": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/EvaluationSampleCode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/EvaluationSampleCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/EvaluationSampleCode.csproj",
+        "projectName": "EvaluationSampleCode",
+        "projectPath": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/EvaluationSampleCode.csproj",
+        "packagesPath": "/Users/canse/.nuget/packages/",
+        "outputPath": "/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canse/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04d4c601_002D7d58_002D4f19_002Da5dc_002De0f9fc215bf3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetOddNumbers_LimitIsPositive_ReturnsOddNumbersUpToLimit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode.UnitsTests" Presentation="&amp;lt;EvaluationSampleCode.UnitsTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0ac2cdd_002Dc7c6_002D4ffc_002Dae0c_002D8b6a05c7f9a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::F3A1319E-EF56-46B0-94E6-A7A81462A121::net8.0::EvaluationSampleCode.UnitsTests.CustomStackTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F3A1319E-EF56-46B0-94E6-A7A81462A121::net8.0::EvaluationSampleCode.UnitsTests.ReservationTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F3A1319E-EF56-46B0-94E6-A7A81462A121::net8.0::EvaluationSampleCode.UnitsTests.MathOperationsTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,14 @@
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.deps.json
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.runtimeconfig.json
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.dll
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.pdb
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.AssemblyInfoInputs.cache
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.AssemblyInfo.cs
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.csproj.CoreCompileInputs.cache
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.dll
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/refint/EvaluationSampleCode.dll
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.pdb
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.genruntimeconfig.cache
+/Users/canse/Desktop/EvaluationSampleCode/EvaluationSampleCode/obj/Debug/net8.0/ref/EvaluationSampleCode.dll
