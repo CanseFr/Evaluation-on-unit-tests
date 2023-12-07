@@ -1,6 +1,3 @@
-# Evaluation-on-unit-tests
-
-# Evaluation-on-unit-tests
 
 # Evaluation module "Tester son code"
 - Je vais vous envoyer un zip contenant plusieurs classes qui n'ont aucun lien les unes les autres.
